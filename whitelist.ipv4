@@ -1,0 +1,21 @@
+#
+# List of IP adresses used by MplusKassa (and KassaNuus)
+#
+# Last updated:           30-05-2025
+# Filename:               whitelist.ipv4
+# Number of ips:          92784
+#
+# Source:                 https://developers.mpluskassa.nl/database-whitelisting/
+#
+89.31.99.199       # API Endpoint
+3.121.65.51        # API Backends
+18.185.194.90      # API Backends
+81.4.84.61         # API Backends
+77.172.135.223     # Management
+89.31.98.73        # Management
+3.124.175.140      # Management
+34.141.226.171     # Management
+34.120.195.249     # Management
+35.186.247.156     # Management
+34.91.155.63       # Management
+213.126.109.106    # KassaNuus
